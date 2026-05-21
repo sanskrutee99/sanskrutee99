@@ -14,7 +14,6 @@ I'm a passionate developer who loves building real-world projects — from syste
 - 🔭 Currently working on expanding my web dev & DSA skills
 - 🧠 Exploring **AI-powered tools** and **full-stack development**
 - 💬 Ask me about **C++, OOP, JavaScript, or anything code-related**
-- ⚡ Fun fact: I built a team matcher — because manually grouping hackathon participants is so last season
 
 ---
 
@@ -34,7 +33,6 @@ I'm a passionate developer who loves building real-world projects — from syste
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -42,38 +40,11 @@ I'm a passionate developer who loves building real-world projects — from syste
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🤝 Hackathon Team Matcher](https://github.com/sanskrutee99/hackathon-team-matcher) | Groups hackathon participants into teams using OOP and file handling | C++, OOP, CSV |
 | [🤖 LeetCode AI Assistant](https://github.com/sanskrutee99/Leetcode-AI-Assistant) | AI-powered tool to help with LeetCode problem solving | JavaScript |
 | [📍 Location Tracker](https://github.com/sanskrutee99/location-tracker) | Real-time location tracking app | JavaScript |
 | [👥 Social Media Website](https://github.com/sanskrutee99/social-media-website) | A social media platform prototype | JavaScript |
-| [🎵 Spotify Clone](https://github.com/sanskrutee99/spotify-clone) | Front-end Spotify-inspired music UI | HTML, CSS |
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sanskrutee99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutee99&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sanskrutee99&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🌐 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sanskrutee99-181717?style=for-the-badge&logo=github)](https://github.com/sanskrutee99)
-
-</div>
 
 ---
 
