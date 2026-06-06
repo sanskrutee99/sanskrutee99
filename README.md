@@ -7,17 +7,17 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 I'm a passionate developer who loves building real-world projects — from system-level C++ applications to full-stack JavaScript apps. I enjoy turning ideas into working software and am always leveling up my skills.
 
-- 🔭 Currently working on expanding my web dev & DSA skills
-- 🧠 Exploring **AI-powered tools** and **full-stack development**
-- 💬 Ask me about **C++, OOP, JavaScript, or anything code-related**
+-  Currently working on expanding my web dev & DSA skills
+-  Exploring **AI-powered tools** and **full-stack development**
+-  Ask me about **C++, OOP, JavaScript, or anything code-related**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -36,13 +36,13 @@ I'm a passionate developer who loves building real-world projects — from syste
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🤖 LeetCode AI Assistant](https://github.com/sanskrutee99/Leetcode-AI-Assistant) | AI-powered tool to help with LeetCode problem solving | JavaScript |
-| [📍 Location Tracker](https://github.com/sanskrutee99/location-tracker) | Real-time location tracking app | JavaScript |
-| [👥 Social Media Website](https://github.com/sanskrutee99/social-media-website) | A social media platform prototype | JavaScript |
+| [ LeetCode AI Assistant](https://github.com/sanskrutee99/Leetcode-AI-Assistant) | AI-powered tool to help with LeetCode problem solving | JavaScript |
+| [Location Tracker](https://github.com/sanskrutee99/location-tracker) | Real-time location tracking app | JavaScript |
+| [ Social Media Website](https://github.com/sanskrutee99/social-media-website) | A social media platform prototype | JavaScript |
 
 
 
